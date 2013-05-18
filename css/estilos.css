@@ -1,0 +1,35 @@
+/* Myndraine is a font that is present in the server. The next directive is an example of pre-compilation expression that should be written before any css style (This rule should be applied to google web fonts too) */
+@font-face {
+    font-family: 'Myndraine';     
+    src: url('../fonts/Myndraine-webfont.eot');
+    src: url('../fonts/Myndraine-webfont.eot?#iefix') format('embedded-opentype'),
+         url('../fonts/Myndraine-webfont.woff') format('woff'),
+         url('../fonts/Myndraine-webfont.ttf') format('truetype'),
+         url('../fonts/Myndraine-webfont.svg#Myndraine') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+
+p {
+    display: block;
+}
+
+.myndraine {
+	font-family: 'Myndraine', sans-serif;
+}
+
+.nunito {     
+    font-family: 'Nunito', sans-serif;
+}
+
+.paragraph {
+    color: #CC494E;
+    font-size: 20px;
+    text-align: justify;
+}
+
+.title {
+    color: #7D4A49;
+    font-size: 40px;
+    text-align: center;
+}
