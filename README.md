@@ -1,4 +1,6 @@
 Font-face
 =========
 
-This repository contains an easy example for understand and learn to apply font-face. You can see it at http://durancristhian.github.io/Font-face
+**Puede verse online en** http://durancristhian.github.io/Font-face
+
+Este repositorio contiene un ejemplo sencillo para aprender y entender como aplicar font-face
